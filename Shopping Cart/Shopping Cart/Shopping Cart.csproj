@@ -1,0 +1,206 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D262F843-C062-47DE-985E-42E61ACFC4EE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Shopping_Cart</RootNamespace>
+    <AssemblyName>Shopping Cart</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\mihaj\Desktop\`\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>27C68B853FFF2E208626A4B6F438CB6D853FA92E</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Shopping Cart_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="LogIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LogIn.Designer.cs">
+      <DependentUpon>LogIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PayPall.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PayPall.Designer.cs">
+      <DependentUpon>PayPall.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Register.Designer.cs">
+      <DependentUpon>Register.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SC1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SC1.Designer.cs">
+      <DependentUpon>SC1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SC2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SC2.Designer.cs">
+      <DependentUpon>SC2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Картичка.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Картичка.Designer.cs">
+      <DependentUpon>Картичка.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Плаќање.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Плаќање.Designer.cs">
+      <DependentUpon>Плаќање.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Нарачки.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Нарачки.Designer.cs">
+      <DependentUpon>Нарачки.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Почетна.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Почетна.Designer.cs">
+      <DependentUpon>Почетна.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Промена на лозинка.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Промена на лозинка.Designer.cs">
+      <DependentUpon>Промена на лозинка.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="LogIn.resx">
+      <DependentUpon>LogIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PayPall.resx">
+      <DependentUpon>PayPall.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Register.resx">
+      <DependentUpon>Register.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SC1.resx">
+      <DependentUpon>SC1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SC2.resx">
+      <DependentUpon>SC2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Картичка.resx">
+      <DependentUpon>Картичка.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Плаќање.resx">
+      <DependentUpon>Плаќање.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Нарачки.resx">
+      <DependentUpon>Нарачки.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Почетна.resx">
+      <DependentUpon>Почетна.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Промена на лозинка.resx">
+      <DependentUpon>Промена на лозинка.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\DataSources\SC1.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="Shopping Cart_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,69 @@
+C:\Users\mihaj\source\repos\Shopping Cart\Shopping Cart\bin\Debug\Shopping Cart.exe.config
+C:\Users\mihaj\source\repos\Shopping Cart\Shopping Cart\bin\Debug\Shopping Cart.exe
+C:\Users\mihaj\source\repos\Shopping Cart\Shopping Cart\bin\Debug\Shopping Cart.pdb
+C:\Users\mihaj\source\repos\Shopping Cart\Shopping Cart\obj\Debug\Shopping Cart.csprojAssemblyReference.cache
+C:\Users\mihaj\source\repos\Shopping Cart\Shopping Cart\obj\Debug\Shopping_Cart.LogIn.resources
+C:\Users\mihaj\source\repos\Shopping Cart\Shopping Cart\obj\Debug\Shopping_Cart.Properties.Resources.resources
+C:\Users\mihaj\source\repos\Shopping Cart\Shopping Cart\obj\Debug\Shopping_Cart.Register.resources
+C:\Users\mihaj\source\repos\Shopping Cart\Shopping Cart\obj\Debug\Shopping Cart.csproj.GenerateResource.cache
+C:\Users\mihaj\source\repos\Shopping Cart\Shopping Cart\obj\Debug\Shopping Cart.csproj.CoreCompileInputs.cache
+C:\Users\mihaj\source\repos\Shopping Cart\Shopping Cart\obj\Debug\Shopping Cart.exe
+C:\Users\mihaj\source\repos\Shopping Cart\Shopping Cart\obj\Debug\Shopping Cart.pdb
+C:\Users\mihaj\source\repos\Shopping Cart\Shopping Cart\obj\Debug\Shopping_Cart.SC1.resources
+C:\Users\mihaj\source\repos\Shopping Cart\Shopping Cart\obj\Debug\Shopping_Cart.SC2.resources
+C:\Users\mihaj\source\repos\Shopping Cart\Shopping Cart\obj\Debug\Shopping_Cart.Плаќање.resources
+C:\Users\mihaj\source\repos\Shopping Cart\Shopping Cart\obj\Debug\Shopping_Cart.Картичка.resources
+C:\Users\mihaj\source\repos\Shopping Cart\Shopping Cart\obj\Debug\Shopping_Cart.Почетна.resources
+C:\Users\mihaj\source\repos\Shopping Cart\Shopping Cart\bin\Debug\Shopping Cart.exe.manifest
+C:\Users\mihaj\source\repos\Shopping Cart\Shopping Cart\bin\Debug\Shopping Cart.application
+C:\Users\mihaj\source\repos\Shopping Cart\Shopping Cart\obj\Debug\Shopping Cart.exe.manifest
+C:\Users\mihaj\source\repos\Shopping Cart\Shopping Cart\obj\Debug\Shopping Cart.application
+C:\Users\mihaj\source\repos\Shopping Cart\Shopping Cart\obj\Debug\Shopping_Cart.PayPall.resources
+C:\Users\mihaj\source\repos\Shopping Cart\Shopping Cart\obj\Debug\Shopping_Cart.Нарачки.resources
+C:\Users\mihaj\source\repos\Shopping Cart\Shopping Cart\obj\Debug\Shopping_Cart.Промена_на_лозинка.resources
+C:\Users\Mihajlo\OneDrive\Documents\`\ZA RABOTA\ТВП Прв Колоквиум\Shopping Cart\Shopping Cart\bin\Debug\Shopping Cart.exe.config
+C:\Users\Mihajlo\OneDrive\Documents\`\ZA RABOTA\ТВП Прв Колоквиум\Shopping Cart\Shopping Cart\bin\Debug\Shopping Cart.exe.manifest
+C:\Users\Mihajlo\OneDrive\Documents\`\ZA RABOTA\ТВП Прв Колоквиум\Shopping Cart\Shopping Cart\bin\Debug\Shopping Cart.application
+C:\Users\Mihajlo\OneDrive\Documents\`\ZA RABOTA\ТВП Прв Колоквиум\Shopping Cart\Shopping Cart\bin\Debug\Shopping Cart.exe
+C:\Users\Mihajlo\OneDrive\Documents\`\ZA RABOTA\ТВП Прв Колоквиум\Shopping Cart\Shopping Cart\bin\Debug\Shopping Cart.pdb
+C:\Users\Mihajlo\OneDrive\Documents\`\ZA RABOTA\ТВП Прв Колоквиум\Shopping Cart\Shopping Cart\obj\Debug\Shopping Cart.csprojAssemblyReference.cache
+C:\Users\Mihajlo\OneDrive\Documents\`\ZA RABOTA\ТВП Прв Колоквиум\Shopping Cart\Shopping Cart\obj\Debug\Shopping_Cart.LogIn.resources
+C:\Users\Mihajlo\OneDrive\Documents\`\ZA RABOTA\ТВП Прв Колоквиум\Shopping Cart\Shopping Cart\obj\Debug\Shopping_Cart.PayPall.resources
+C:\Users\Mihajlo\OneDrive\Documents\`\ZA RABOTA\ТВП Прв Колоквиум\Shopping Cart\Shopping Cart\obj\Debug\Shopping_Cart.Properties.Resources.resources
+C:\Users\Mihajlo\OneDrive\Documents\`\ZA RABOTA\ТВП Прв Колоквиум\Shopping Cart\Shopping Cart\obj\Debug\Shopping_Cart.Register.resources
+C:\Users\Mihajlo\OneDrive\Documents\`\ZA RABOTA\ТВП Прв Колоквиум\Shopping Cart\Shopping Cart\obj\Debug\Shopping_Cart.SC1.resources
+C:\Users\Mihajlo\OneDrive\Documents\`\ZA RABOTA\ТВП Прв Колоквиум\Shopping Cart\Shopping Cart\obj\Debug\Shopping_Cart.SC2.resources
+C:\Users\Mihajlo\OneDrive\Documents\`\ZA RABOTA\ТВП Прв Колоквиум\Shopping Cart\Shopping Cart\obj\Debug\Shopping_Cart.Картичка.resources
+C:\Users\Mihajlo\OneDrive\Documents\`\ZA RABOTA\ТВП Прв Колоквиум\Shopping Cart\Shopping Cart\obj\Debug\Shopping_Cart.Плаќање.resources
+C:\Users\Mihajlo\OneDrive\Documents\`\ZA RABOTA\ТВП Прв Колоквиум\Shopping Cart\Shopping Cart\obj\Debug\Shopping_Cart.Нарачки.resources
+C:\Users\Mihajlo\OneDrive\Documents\`\ZA RABOTA\ТВП Прв Колоквиум\Shopping Cart\Shopping Cart\obj\Debug\Shopping_Cart.Почетна.resources
+C:\Users\Mihajlo\OneDrive\Documents\`\ZA RABOTA\ТВП Прв Колоквиум\Shopping Cart\Shopping Cart\obj\Debug\Shopping_Cart.Промена_на_лозинка.resources
+C:\Users\Mihajlo\OneDrive\Documents\`\ZA RABOTA\ТВП Прв Колоквиум\Shopping Cart\Shopping Cart\obj\Debug\Shopping Cart.csproj.GenerateResource.cache
+C:\Users\Mihajlo\OneDrive\Documents\`\ZA RABOTA\ТВП Прв Колоквиум\Shopping Cart\Shopping Cart\obj\Debug\Shopping Cart.csproj.CoreCompileInputs.cache
+C:\Users\Mihajlo\OneDrive\Documents\`\ZA RABOTA\ТВП Прв Колоквиум\Shopping Cart\Shopping Cart\obj\Debug\Shopping Cart.exe.manifest
+C:\Users\Mihajlo\OneDrive\Documents\`\ZA RABOTA\ТВП Прв Колоквиум\Shopping Cart\Shopping Cart\obj\Debug\Shopping Cart.application
+C:\Users\Mihajlo\OneDrive\Documents\`\ZA RABOTA\ТВП Прв Колоквиум\Shopping Cart\Shopping Cart\obj\Debug\Shopping Cart.exe
+C:\Users\Mihajlo\OneDrive\Documents\`\ZA RABOTA\ТВП Прв Колоквиум\Shopping Cart\Shopping Cart\obj\Debug\Shopping Cart.pdb
+C:\Users\Mihajlo\source\repos\Shopping Cart\Shopping Cart\bin\Debug\Shopping Cart.exe.config
+C:\Users\Mihajlo\source\repos\Shopping Cart\Shopping Cart\bin\Debug\Shopping Cart.exe.manifest
+C:\Users\Mihajlo\source\repos\Shopping Cart\Shopping Cart\bin\Debug\Shopping Cart.application
+C:\Users\Mihajlo\source\repos\Shopping Cart\Shopping Cart\bin\Debug\Shopping Cart.exe
+C:\Users\Mihajlo\source\repos\Shopping Cart\Shopping Cart\bin\Debug\Shopping Cart.pdb
+C:\Users\Mihajlo\source\repos\Shopping Cart\Shopping Cart\obj\Debug\Shopping Cart.csprojAssemblyReference.cache
+C:\Users\Mihajlo\source\repos\Shopping Cart\Shopping Cart\obj\Debug\Shopping_Cart.LogIn.resources
+C:\Users\Mihajlo\source\repos\Shopping Cart\Shopping Cart\obj\Debug\Shopping_Cart.PayPall.resources
+C:\Users\Mihajlo\source\repos\Shopping Cart\Shopping Cart\obj\Debug\Shopping_Cart.Properties.Resources.resources
+C:\Users\Mihajlo\source\repos\Shopping Cart\Shopping Cart\obj\Debug\Shopping_Cart.Register.resources
+C:\Users\Mihajlo\source\repos\Shopping Cart\Shopping Cart\obj\Debug\Shopping_Cart.SC1.resources
+C:\Users\Mihajlo\source\repos\Shopping Cart\Shopping Cart\obj\Debug\Shopping_Cart.SC2.resources
+C:\Users\Mihajlo\source\repos\Shopping Cart\Shopping Cart\obj\Debug\Shopping_Cart.Картичка.resources
+C:\Users\Mihajlo\source\repos\Shopping Cart\Shopping Cart\obj\Debug\Shopping_Cart.Плаќање.resources
+C:\Users\Mihajlo\source\repos\Shopping Cart\Shopping Cart\obj\Debug\Shopping_Cart.Нарачки.resources
+C:\Users\Mihajlo\source\repos\Shopping Cart\Shopping Cart\obj\Debug\Shopping_Cart.Почетна.resources
+C:\Users\Mihajlo\source\repos\Shopping Cart\Shopping Cart\obj\Debug\Shopping_Cart.Промена_на_лозинка.resources
+C:\Users\Mihajlo\source\repos\Shopping Cart\Shopping Cart\obj\Debug\Shopping Cart.csproj.GenerateResource.cache
+C:\Users\Mihajlo\source\repos\Shopping Cart\Shopping Cart\obj\Debug\Shopping Cart.csproj.CoreCompileInputs.cache
+C:\Users\Mihajlo\source\repos\Shopping Cart\Shopping Cart\obj\Debug\Shopping Cart.exe.manifest
+C:\Users\Mihajlo\source\repos\Shopping Cart\Shopping Cart\obj\Debug\Shopping Cart.application
+C:\Users\Mihajlo\source\repos\Shopping Cart\Shopping Cart\obj\Debug\Shopping Cart.exe
+C:\Users\Mihajlo\source\repos\Shopping Cart\Shopping Cart\obj\Debug\Shopping Cart.pdb
